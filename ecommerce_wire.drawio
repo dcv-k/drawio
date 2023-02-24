@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T16:42:08.610Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="msI03oY_TIAKApv3QfAD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T18:39:42.905Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OzroREXncC_0zGz2nPfH" version="20.8.21" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1120" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="290" width="680" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gzuQvW_wP6BqH5BC8UXk-2" value="banner / offers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gzuQvW_wP6BqH5BC8UXk-3" value="nav bar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="45" width="60" height="30" as="geometry" />
